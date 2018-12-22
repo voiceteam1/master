@@ -6,3 +6,5 @@
 
 [电子书](https://www.jiumodiary.com/)
 
+[Typora](https://pan.baidu.com/s/1dAfocvwF214gsd5cPkgJOA )
+
