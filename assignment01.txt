@@ -1,0 +1,19 @@
+2018/12/21
+1.python基础已经掌握好的同学，开始学习深度神经网络，学习tensorflow这个包，训练神经网络模型；掌握的不是很好的同学，完成之前没有做的作业，然后做上面这些任务；2.Psychoacoustic Modelde 的文件是matlab的心理声学模型1的代码，可以试着仿真一下plots这个文件
+深度神经网络：https://www.cnblogs.com/pinard/p/6422831.html
+Python中的Numpy入门教程_python_脚本之家https://www.jb51.net/article/49397.htm
+tensorflow常用函数及概念 - NodYoung - CSDN博客 https://blog.csdn.net/NNNNNNNNNNNNY/article/details/70177509
+https://www.jiumodiary.com/推荐一个看电子书的网站,在这个网站许多的书都能找到,比如我们现在学习的PYTHON 书籍
+
+推荐：
+
+** 翻墙软件：
+软件名称：坚果微皮恩【免费使用3个月＞翻墙软件
+软件大小：11m
+软件版本：1.0
+===
+
+百度云：http://t.cn/EAgIcpY
+蓝奏云：http://t.cn/EAgIMOe
+
+** snipaste截图工具
